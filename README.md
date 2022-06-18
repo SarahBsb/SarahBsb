@@ -1,5 +1,5 @@
-<img src="https://www.wallpaperbetter.com/pt/hd-wallpaper-fuabd.jpg" alt="CL Thumb" border="0" width="100%">
-</p>
+
+
 ## Bem vindo ao meu perfil
 
 <p>👩‍💻Dev Front-end e Designer🎨<p>
@@ -13,4 +13,5 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
-<br><br>
+<br>
+<img src="https://w0.peakpx.com/wallpaper/500/579/HD-wallpaper-anime-room-computer-night.jpg" alt="CL Thumb" border="0" width="40%">
