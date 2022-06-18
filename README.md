@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil
 
-<p>👩‍💻Dev Front-end<p>
+<p>👩‍💻Dev Front-end e Designer🎨<p>
 <p>📚Estudando Segurança da informação<p>
   
  Linguagens
